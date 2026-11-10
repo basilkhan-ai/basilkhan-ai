@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Basil%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Strategy%20%26%20Architecture&descAlignY=60&descSize=20" alt="Basil Khan banner" width="100%" />
+  <img src="./banner.svg" alt="Basil Khan, AI Strategy and Architecture" width="100%" />
 </p>
 
 <p align="center">
